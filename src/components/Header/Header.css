@@ -1,0 +1,15 @@
+.header{
+    background-color: rgba(210, 105, 30, 0.788);
+    text-align: center;
+    width: 80%;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 20px;
+}
+.header h1{
+    color: cornsilk;
+}
+#budget{
+    font-weight: 700;
+    color: lightcyan;
+}
